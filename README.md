@@ -22,6 +22,8 @@ You can add yourself by making a pull request.
    * Security Headers
  * Subhash Chandra Bhil
    * XSS
+ * Thrivikram Gujarathi (linkedin.com/in/thrivikram-gujarathi-independent-web-penetration-tester-53074796)
+   * iFrames
  * Vismit Sudhir Rakhecha (facebook.com/rvismit)
    * iFrames
  * Wouter Groenewold
