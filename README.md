@@ -7,6 +7,8 @@ You can add yourself by making a pull request.
 
  * Damian Ebelties
    * Full Path Disclosure
+ * Kasper Karlsson (Omegapoint)
+   * XSS
  * Ketankumar B. Godhani
    * Spoofing
  * Marvin van Walstijn (twitter.com/rootpentesting)
