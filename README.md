@@ -1,5 +1,5 @@
 # Security Hall of Fame
-We would like to thank everyone on this list for making are product more secure!
+We would like to thank everyone on this list for making our products more secure!
 
 You can add yourself by making a pull request.
 
