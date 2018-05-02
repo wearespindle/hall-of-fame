@@ -7,6 +7,8 @@ You can add yourself by making a pull request.
 
  * Damian Ebelties
    * Full Path Disclosure
+ * Harika Naidu  (https://www.linkedin.com/in/haarikavi/)
+   * Critical Information Disclosure
  * Kasper Karlsson (Omegapoint)
    * XSS
  * Ketankumar B. Godhani
@@ -28,3 +30,4 @@ You can add yourself by making a pull request.
    * iFrames
  * Wouter Groenewold
    * Authorization
+
