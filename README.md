@@ -30,4 +30,5 @@ You can add yourself by making a pull request.
    * iFrames
  * Wouter Groenewold
    * Authorization
-
+ * Kirtikumar Anandrao Ramchandani (https://www.linkedin.com/in/kirtikumar-anandrao-ramchandani-ba949b153/)
+   * SSL
