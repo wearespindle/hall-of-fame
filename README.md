@@ -7,6 +7,7 @@ You can add yourself by making a pull request.
 
  * Damian Ebelties
    * Full Path Disclosure
+ * Gatin Shah (https://www.linkedin.com/in/gatinshah/)
  * Harika Naidu  (https://www.linkedin.com/in/haarikavi/)
    * Critical Information Disclosure
  * Kasper Karlsson (Omegapoint)
