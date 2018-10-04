@@ -27,6 +27,9 @@ You can add yourself by making a pull request.
    * XSS
  * Thrivikram Gujarathi (linkedin.com/in/thrivikram-gujarathi-independent-web-penetration-tester-53074796)
    * iFrames
+ * Umesh Prakash Jore (linkedin.com/in/umesh-prakash-jore-55015194)
+   * Version disclosure
+   * XST
  * Vismit Sudhir Rakhecha (facebook.com/rvismit)
    * iFrames
  * Wouter Groenewold
