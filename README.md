@@ -14,23 +14,23 @@ You can add yourself by making a pull request.
    * XSS
  * Ketankumar B. Godhani
    * Spoofing
- * Marvin van Walstijn (twitter.com/rootpentesting)
+ * Marvin van Walstijn (https://twitter.com/rootpentesting)
    * Full Path Disclosure
- * Pal Patel (linkedin.com/in/pal434/)
+ * Pal Patel (https://www.linkedin.com/in/pal434/)
    * Spoofing
  * Project 24:42 (2442.nl)
    * Subdomains
    * SSL
- * Steven Hampton (twitter.com/keritzy)
+ * Steven Hampton (https://twitter.com/keritzy)
    * Security Headers
  * Subhash Chandra Bhil
    * XSS
- * Thrivikram Gujarathi (linkedin.com/in/thrivikram-gujarathi-independent-web-penetration-tester-53074796)
+ * Thrivikram Gujarathi (https://www.linkedin.com/in/thrivikram-gujarathi-independent-web-penetration-tester-53074796)
    * iFrames
- * Umesh Prakash Jore (linkedin.com/in/umesh-prakash-jore-55015194)
+ * Umesh Prakash Jore (https://www.linkedin.com/in/umesh-prakash-jore-55015194)
    * Version disclosure
    * XST
- * Vismit Sudhir Rakhecha (facebook.com/rvismit)
+ * Vismit Sudhir Rakhecha (https://facebook.com/rvismit)
    * iFrames
  * Wouter Groenewold
    * Authorization
