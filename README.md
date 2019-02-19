@@ -36,3 +36,5 @@ You can add yourself by making a pull request.
    * Authorization
  * Kirtikumar Anandrao Ramchandani (https://www.linkedin.com/in/kirtikumar-anandrao-ramchandani-ba949b153/)
    * SSL
+ * Maksym Bendeberia (https://websafety.ninja)
+   * Security Misconfiguration, Critical Information Disclosure
