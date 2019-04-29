@@ -14,6 +14,10 @@ You can add yourself by making a pull request.
    * XSS
  * Ketankumar B. Godhani
    * Spoofing
+ * Kirtikumar Anandrao Ramchandani (https://www.linkedin.com/in/kirtikumar-anandrao-ramchandani-ba949b153/)
+   * SSL
+ * Maksym Bendeberia (https://websafety.ninja)
+   * Security Misconfiguration, Critical Information Disclosure
  * Marvin van Walstijn (https://twitter.com/rootpentesting)
    * Full Path Disclosure
  * Pal Patel (https://www.linkedin.com/in/pal434/)
@@ -25,6 +29,8 @@ You can add yourself by making a pull request.
    * Security Headers
  * Subhash Chandra Bhil
    * XSS
+ * Tolesh Kumar Jangid (https://linkedin.com/in/urstkj)
+   * DoS
  * Thrivikram Gujarathi (https://www.linkedin.com/in/thrivikram-gujarathi-independent-web-penetration-tester-53074796)
    * iFrames
  * Umesh Prakash Jore (https://www.linkedin.com/in/umesh-prakash-jore-55015194)
@@ -34,7 +40,3 @@ You can add yourself by making a pull request.
    * iFrames
  * Wouter Groenewold
    * Authorization
- * Kirtikumar Anandrao Ramchandani (https://www.linkedin.com/in/kirtikumar-anandrao-ramchandani-ba949b153/)
-   * SSL
- * Maksym Bendeberia (https://websafety.ninja)
-   * Security Misconfiguration, Critical Information Disclosure
