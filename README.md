@@ -29,10 +29,10 @@ You can add yourself by making a pull request.
    * Security Headers
  * Subhash Chandra Bhil
    * XSS
- * Tolesh Kumar Jangid (https://linkedin.com/in/urstkj)
-   * DoS
  * Thrivikram Gujarathi (https://www.linkedin.com/in/thrivikram-gujarathi-independent-web-penetration-tester-53074796)
    * iFrames
+ * Tolesh Kumar Jangid (https://linkedin.com/in/urstkj)
+   * DoS
  * Umesh Prakash Jore (https://www.linkedin.com/in/umesh-prakash-jore-55015194)
    * Version disclosure
    * XST
