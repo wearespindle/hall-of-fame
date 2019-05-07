@@ -22,7 +22,7 @@ You can add yourself by making a pull request.
    * Full Path Disclosure
  * Pal Patel (https://www.linkedin.com/in/pal434/)
    * Spoofing
- * Prabhjot Singh
+ * Prabhjot Dunglay (https://www.linkedin.com/in/prabhjotdunglay)
    * Error page reflection
  * Project 24:42 (2442.nl)
    * Subdomains
