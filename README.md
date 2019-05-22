@@ -27,6 +27,9 @@ You can add yourself by making a pull request.
  * Project 24:42 (2442.nl)
    * Subdomains
    * SSL
+ * Rayen Messaoudi (https://www.linkedin.com/in/rayenmessaoudi/)
+   * Source code disclosure
+   * Error page reflection
  * Steven Hampton (https://twitter.com/keritzy)
    * Security Headers
  * Subhash Chandra Bhil
