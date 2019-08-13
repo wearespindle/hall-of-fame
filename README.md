@@ -10,6 +10,8 @@ You can add yourself by making a pull request.
  * Gatin Shah (https://www.linkedin.com/in/gatinshah/)
  * Harika Naidu  (https://www.linkedin.com/in/haarikavi/)
    * Critical Information Disclosure
+ * Johan van Tongeren (https://www.linkedin.com/in/johan-van-tongeren/)
+   * Wordpress configuration improvements 
  * Kasper Karlsson (Omegapoint)
    * XSS
  * Ketankumar B. Godhani
