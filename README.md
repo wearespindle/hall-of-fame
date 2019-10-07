@@ -5,6 +5,8 @@ You can add yourself by making a pull request.
 
 ## Many thanks to
 
+ * Alwin Warringa
+   * Debug log disclosure
  * Damian Ebelties
    * Full Path Disclosure
  * Gatin Shah (https://www.linkedin.com/in/gatinshah/)
