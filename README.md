@@ -5,6 +5,8 @@ You can add yourself by making a pull request.
 
 ## Many thanks to
 
+ * Flo van der Vlist (https://www.linkedin.com/in/flo-van-der-vlist/)
+   * Wordpress misconfiguration
  * Alwin Warringa
    * Debug log disclosure
  * Damian Ebelties
