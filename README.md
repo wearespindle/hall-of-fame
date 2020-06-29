@@ -30,6 +30,8 @@ You can add yourself by making a pull request.
    * Spoofing
  * Prabhjot Dunglay (https://www.linkedin.com/in/prabhjotdunglay)
    * Error page reflection
+ * Pritam Mukherjee (https://www.linkedin.com/in/pritam-mukherjee-urvil-b75ab9b9/)
+   * Brute force opportunity
  * Project 24:42 (2442.nl)
    * Subdomains
    * SSL
