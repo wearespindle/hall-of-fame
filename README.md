@@ -5,12 +5,12 @@ You can add yourself by making a pull request.
 
 ## Many thanks to
 
- * Flo van der Vlist (https://www.linkedin.com/in/flo-van-der-vlist/)
-   * Wordpress misconfiguration
  * Alwin Warringa
    * Debug log disclosure
  * Damian Ebelties
    * Full Path Disclosure
+ * Flo van der Vlist (https://www.linkedin.com/in/flo-van-der-vlist/)
+   * Wordpress misconfiguration
  * Gatin Shah (https://www.linkedin.com/in/gatinshah/)
  * Harika Naidu  (https://www.linkedin.com/in/haarikavi/)
    * Critical Information Disclosure
@@ -49,6 +49,8 @@ You can add yourself by making a pull request.
  * Umesh Prakash Jore (https://www.linkedin.com/in/umesh-prakash-jore-55015194)
    * Version disclosure
    * XST
+ * Vedant Kulkarni (www.linkedin.com/in/vedant-kulkarni-1746681a8)
+   * Email spoofing
  * Vismit Sudhir Rakhecha (https://facebook.com/rvismit)
    * iFrames
  * Wouter Groenewold
