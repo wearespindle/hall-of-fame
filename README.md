@@ -35,6 +35,8 @@ You can add yourself by making a pull request.
  * Project 24:42 (2442.nl)
    * Subdomains
    * SSL
+ * Rachid Verma (https://in.linkedin.com/in/b43kd00r)
+   * Exposed git config
  * Rayen Messaoudi (https://www.linkedin.com/in/rayenmessaoudi/)
    * Source code disclosure
    * Error page reflection
