@@ -40,6 +40,8 @@ You can add yourself by making a pull request.
  * Rayen Messaoudi (https://www.linkedin.com/in/rayenmessaoudi/)
    * Source code disclosure
    * Error page reflection
+ * Sander Wind (https://twitter.com/SanderWind)
+   * Data integrity
  * Steven Hampton (https://twitter.com/keritzy)
    * Security Headers
  * Subhash Chandra Bhil
