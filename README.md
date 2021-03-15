@@ -22,7 +22,7 @@ You can add yourself by making a pull request.
    * Spoofing
  * Kirtikumar Anandrao Ramchandani (https://www.linkedin.com/in/kirtikumar-anandrao-ramchandani-ba949b153/)
    * SSL
- * Maksym Bendeberia (https://websafety.ninja)
+ * Maksym Bendeberia (https://www.linkedin.com/in/max-websafety-ninja/)
    * Security Misconfiguration, Critical Information Disclosure
  * Marvin van Walstijn (https://twitter.com/rootpentesting)
    * Full Path Disclosure
