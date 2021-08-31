@@ -7,6 +7,8 @@ You can add yourself by making a pull request.
 
  * Alwin Warringa
    * Debug log disclosure
+ * Anon_Y0gi (https://twitter.com/AnonY0gi)
+   * DoS
  * Damian Ebelties
    * Full Path Disclosure
  * Flo van der Vlist (https://www.linkedin.com/in/flo-van-der-vlist/)
